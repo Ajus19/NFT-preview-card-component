@@ -62,7 +62,7 @@ body {
   height: 276px;
 }
 .container-img:hover {
-  background: url(./images/icon-view.svg) center no-repeat #00fff7a8;
+  background: url(images/icon-view.svg) center no-repeat #00fff7a8;
   cursor: pointer;
 }
 
